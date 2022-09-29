@@ -3,4 +3,9 @@ const user = {
     password : "user"
 }
 
-export default user
+const user2 = {
+    username : "Dika",
+    password : "user"
+}
+
+export {user, user2}
